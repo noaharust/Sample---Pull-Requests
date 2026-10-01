@@ -4,4 +4,5 @@ Ex: 5+3
 - add the second integer, 3
 - count 3 more from 5:
 - 5, 6, 7, 8
+
 Therefore: 5+3=8
